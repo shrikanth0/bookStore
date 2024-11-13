@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Story Book",
+    "title": "Whispers of the Forgotten",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?ga=GA1.1.1174371132.1717870041&semt=ais_hybrid"
+  },
+  {
+    "id": 2,
+    "name": "Story Book",
+    "title": "Beneath the Endless Sky",
+    "price": 15,
+    "category": "Fiction",
+    "image": "https://img.freepik.com/free-vector/illustration-open-book_53876-5608.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Mystery Novel",
+    "title": "The Final Hour",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?ga=GA1.1.1174371132.1717870041&semt=ais_hybrid"
+  },
+  {
+    "id": 4,
+    "name": "Fantasy Adventure",
+    "title": "Rise of the Moonstone Knights",
+    "price": 18,
+    "category": "Fantasy",
+    "image": "https://img.freepik.com/free-vector/fantasy-book-cover-with-knight-moon_23-2148686710.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Science Fiction",
+    "title": "The Quantum Paradox",
+    "price": 0,
+    "category": "Free",
+    "image":  "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?ga=GA1.1.1174371132.1717870041&semt=ais_hybrid"
+  },
+  {
+    "id": 6,
+    "name": "Romantic Novel",
+    "title": "Hearts in the Rain",
+    "price": 12,
+    "category": "Romance",
+    "image": "https://img.freepik.com/free-vector/heart-rain-background_23-2148584039.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Historical Fiction",
+    "title": "Echoes of a Silent River",
+    "price": 14,
+    "category": "Historical",
+    "image": "https://img.freepik.com/free-vector/vintage-historical-book-cover_53876-117178.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Thriller",
+    "title": "Dark Corners and Empty Streets",
+    "price": 22,
+    "category": "Thriller",
+    "image": "https://img.freepik.com/free-vector/thriller-book-cover-design-with-dark-theme_23-2148625799.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Self-Help",
+    "title": "The Power of Perspective",
+    "price": 10,
+    "category": "Self-Help",
+    "image": "https://img.freepik.com/free-vector/self-help-book-cover-illustration_23-2148786035.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Motivational",
+    "title": "Pathways to Success",
+    "price": 0,
+    "category": "Free",
+    "image":  "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?ga=GA1.1.1174371132.1717870041&semt=ais_hybrid"
+  },
+  {
+    "id": 11,
+    "name": "Thriller",
+    "title": "Dark Corners and Empty Streets",
+    "price": 0,
+    "category": "Free",
+    "image":  "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?ga=GA1.1.1174371132.1717870041&semt=ais_hybrid"
+  },
+  {
+    "id": 12,
+    "name": "Thriller",
+    "title": "Dark Corners and Empty Streets",
+    "price": 0,
+    "category": "Free",
+    "image":  "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?ga=GA1.1.1174371132.1717870041&semt=ais_hybrid"
+  }
+]
